@@ -1,17 +1,4 @@
-# Prism
 
-Got it — you want to formally begin from **STEP-0**.
-Good move — Step-0 sets up **project intent, outcomes, scope, dataset plan, and environment** before touching any data.
-
-Let’s do it.
-
----
-
-# 🏁 **STEP-0 — PROJECT FOUNDATION (PRISM)**
-
----
-
-# 🎯 **0.1 — Project Intent**
 
 **Project Name:** `PRISM`
 
@@ -116,7 +103,7 @@ Result dataset feels like “Flipkart/Amazon India”.
 
 # 🏗️ **0.6 — Knowledge Outcomes You Gain**
 
-By the end of Phase-1 you will know:
+By the end of Phase-1:
 
 ### **Technical**
 
@@ -213,51 +200,6 @@ This structure is **professional + ML-ready**.
 
 # 🧾 **0.9 — Deliverables After Phase-1**
 
-You will have:
 
-✔ Complete hybrid dataset
-✔ Clean integrated master table
-✔ Behavioral feature table
-✔ Cohort retention heatmap
-✔ Survival curve (Kaplan-Meier)
-✔ Price elasticity plots
-✔ Discount sensitivity curve
-✔ Profitability metrics
-✔ Lifecycle segmentation logic
-✔ GitHub-ready notebooks
-✔ Insights summary
-✔ Indian context interpretation
 
-This is enough to **get shortlisted for Analytics roles** and prepare for ML in Phase-2.
 
----
-
-# 🚀 **0.10 — Checkpoint Before Moving On**
-
-Now confirm:
-
-1. **Dataset Plan:** Hybrid (✔)
-2. **Environment:** Python + Jupyter (✔)
-3. **Hardware:** 14th gen + 4060 GPU (✔)
-4. **Goal:** Phase-1 only for now (✔)
-5. **Role Path:** Analytics → ML (✔)
-
-Now we ask **only one final question** before ingestion:
-
-### **Q0 — Do you want me to generate a full PDF Project Charter for Prism (Phase-1)?**
-
-It includes:
-✔ project summary
-✔ scope
-✔ dataset strategy
-✔ timeline
-✔ deliverables
-✔ future ML plan
-
-Reply with:
-
-> **Yes** (generate PDF)
-> or
-> **No** (skip to Step-1 ingestion)
-
-Your move.
